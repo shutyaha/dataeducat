@@ -1,1 +1,2 @@
 01.08.2026 - make venv. Start notebook-server
+02.08.2026 - try new course Python on stepik for remember. Add all files in git, and delete directories venv and .venv.
