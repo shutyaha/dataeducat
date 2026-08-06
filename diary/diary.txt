@@ -3,3 +3,4 @@
 03.08.2026 - if-else, logic operations
 04.08.2026 - git conflict, int, float, str, math
 05.08.2026 - for, while
+06.08.2026 - break, continue, else
