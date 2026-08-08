@@ -5,3 +5,4 @@
 05.08.2026 - for, while
 06.08.2026 - break, continue, else
 07.08.2026 - index
+08.08.2026 - slices
