@@ -7,3 +7,5 @@
 07.08.2026 - index
 08.08.2026 - slices
 09.08.2026 - method slices - upper, lower, switchcase, capitalize
+
+10.08.2026 - methods slices, ASCII, Unicode
