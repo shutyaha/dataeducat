@@ -6,6 +6,6 @@
 06.08.2026 - break, continue, else
 07.08.2026 - index
 08.08.2026 - slices
-09.08.2026 - method slices - upper, lower, switchcase, capitalize
-
-10.08.2026 - methods slices, ASCII, Unicode
+09.08.2026 - method slices - upper, lower, switchcase, capitalize, title
+10.08.2026 - try foreign project in my environment, methods slices: count, startswith, endswith, find, index, strip, replace
+11.08.2026 - methods slices, ASCII, Unicode
