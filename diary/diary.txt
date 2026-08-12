@@ -9,3 +9,4 @@
 09.08.2026 - method slices - upper, lower, switchcase, capitalize, title
 10.08.2026 - try foreign project in my environment, methods slices: count, startswith, endswith, find, index, strip, replace
 11.08.2026 - methods slices, ASCII, Unicode
+12.08.2026 - lists
