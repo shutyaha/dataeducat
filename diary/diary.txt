@@ -11,3 +11,4 @@
 11.08.2026 - methods slices, ASCII, Unicode
 12.08.2026 - lists
 13.08.2026 - lists methods
+14.08.2026 - functions
