@@ -14,3 +14,4 @@
 14.08.2026 - functions
 15.08.2026 - almost complete Python course for beginners
 16.08.2025 - module random
+17.08.2025 - mini-Project 'guess the number'
