@@ -13,5 +13,6 @@
 13.08.2026 - lists methods
 14.08.2026 - functions
 15.08.2026 - almost complete Python course for beginners
-16.08.2025 - module random
-17.08.2025 - mini-Project 'guess the number'
+16.08.2026 - module random
+17.08.2026 - mini-Project 'guess the number'
+18.08.2026 - SQL
