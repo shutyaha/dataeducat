@@ -18,3 +18,4 @@
 18.08.2026 - SQL
 19.08.2026 - introduction to DBMS
 20.08.2026 - downloaded mysql by homebrew. Install and create database
+21.08.2026 - data type
