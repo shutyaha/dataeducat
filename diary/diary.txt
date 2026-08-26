@@ -15,6 +15,7 @@
 15.08.2026 - almost complete Python course for beginners
 16.08.2026 - module random
 17.08.2026 - mini-Project 'guess the number'
+
 18.08.2026 - SQL
 19.08.2026 - introduction to DBMS
 20.08.2026 - downloaded mysql by homebrew. Install and create database
