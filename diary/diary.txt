@@ -22,3 +22,4 @@
 21.08.2026 - data type
 
 28.08.2026 - Taking a break due to an urgent business trip. We’ll continue learning Python tomorrow.
+30.08.2026 - review of material covered
