@@ -24,3 +24,4 @@
 28.08.2026 - Taking a break due to an urgent business trip. We’ll continue learning Python tomorrow.
 30.08.2026 - review of material covered
 31.08.2026 - bool and None
+01.09.2026 - nested lists, matrix
