@@ -25,3 +25,4 @@
 30.08.2026 - review of material covered
 31.08.2026 - bool and None
 01.09.2026 - nested lists, matrix
+02.09.2026 - tuples
