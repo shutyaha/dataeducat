@@ -26,3 +26,4 @@
 31.08.2026 - bool and None
 01.09.2026 - nested lists, matrix
 02.09.2026 - tuples
+I turn the calendar - set
