@@ -27,3 +27,4 @@
 01.09.2026 - nested lists, matrix
 02.09.2026 - tuples
 I turn the calendar - set
+04.09.2026 - set methods
