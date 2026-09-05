@@ -28,3 +28,4 @@
 02.09.2026 - tuples
 I turn the calendar - set
 04.09.2026 - set methods
+05.09.2026 - set methods
