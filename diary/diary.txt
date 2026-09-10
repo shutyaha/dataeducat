@@ -33,3 +33,4 @@ I turn the calendar - set
 07.09.2026 - dict
 08.09.2026 - module random (I will return later for dict)
 09.09.2026 - decimal, fractions, complex
+10.09.2026 - file input, output
