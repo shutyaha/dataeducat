@@ -36,3 +36,5 @@ I turn the calendar - set
 10.09.2026 - file input, output
 11.09.2026 - file input, output
 12.09.2026 - args, kwargs
+
+13.09.2026 - preparation for a course in machine learning
