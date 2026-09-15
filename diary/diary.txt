@@ -39,3 +39,4 @@ I turn the calendar - set
 
 13.09.2026 - preparation for a course in machine learning
 14.09.2026 - install conda, review of previously learned material
+15.09.2026 - dict
