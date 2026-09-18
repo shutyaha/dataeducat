@@ -42,3 +42,4 @@ I turn the calendar - set
 15.09.2026 - dict
 16.09.2026 - dict
 17.09.2026 - fundamentals of OOP
+18.09.2026 - fundamentals of OOP
