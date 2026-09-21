@@ -45,3 +45,4 @@ I turn the calendar - set
 18.09.2026 - fundamentals of OOP
 19.09.2026 - linal
 20.09.2026 - introduction to AI
+21.09.2026 - repeat introduction to AI
