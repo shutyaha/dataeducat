@@ -17,15 +17,12 @@
 17.08.2026 - mini-Project 'guess the number'
 
 18.08.2026 - SQL
-
-19.08.2026 - business trip
-19.08.2026 - introduction to DBMS
+19.08.2026 - introduction to DBMS, business trip
 20.08.2026 - downloaded mysql by homebrew. Install and create database
 21.08.2026 - data type
 25.08.2026 - returning from business trip
 
-28.08.2026 - Taking a break due to an urgent business trip. We’ll continue learning Python tomorrow.
-30.08.2026 - review of material covered
+30.08.2026 - Python. review of material covered
 31.08.2026 - bool and None
 01.09.2026 - nested lists, matrix
 02.09.2026 - tuples
@@ -41,7 +38,6 @@ I turn the calendar - set
 12.09.2026 - args, kwargs
 
 13.09.2026 - preparation for a course in machine learning
-
 14.09.2026 - BT
 14.09.2026 - install conda, review of previously learned material
 15.09.2026 - dict
@@ -52,8 +48,7 @@ I turn the calendar - set
 20.09.2026 - introduction to AI
 21.09.2026 - repeat introduction to AI
 22.09.2026 - repeat introduction to AI
-23.09.2026 -
-24.09.2026 -
-25.09.2026 -
-26.09.2026 -
-27.09.2026 -
+25.09.2026 - return from BT
+26.09.2026 - introduction to ML
+27.09.2026 - introduction to ML, Pandas, Matplotlib, Sklearn
+28.09.2026 - Feature engineering
