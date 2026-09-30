@@ -53,3 +53,4 @@ I turn the calendar - set
 27.09.2026 - introduction to ML, Pandas, Matplotlib, Sklearn
 28.09.2026 - Feature engineering
 29.09.2026 - homework simple model
+30.09.2026 - repeating intro to ml, pandas, plt, sns
