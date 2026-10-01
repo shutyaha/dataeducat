@@ -54,3 +54,4 @@ I turn the calendar - set
 28.09.2026 - Feature engineering
 29.09.2026 - homework simple model
 30.09.2026 - repeating intro to ml, pandas, plt, sns
+01.10.2026 - homework simple model. Upload
