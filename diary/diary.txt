@@ -56,3 +56,4 @@ I turn the calendar - set
 30.09.2026 - repeating intro to ml, pandas, plt, sns
 01.10.2026 - homework simple model. Upload
 02.10.2026 - peer-to-veiw homework,
+03.10.2026 - math analysis
