@@ -59,3 +59,4 @@ I turn the calendar - set
 03.10.2026 - linear models, second lecture
 04.10.2026 - linear models, second lecture
 05.10.2026 - logistic regression seminar
+06.10.2026 - homework logistic regression
