@@ -58,3 +58,4 @@ I turn the calendar - set
 02.10.2026 - peer-to-veiw homework,
 03.10.2026 - linear models, second lecture
 04.10.2026 - linear models, second lecture
+05.10.2026 - logistic regression seminar
