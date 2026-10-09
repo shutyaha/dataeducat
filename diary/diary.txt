@@ -62,3 +62,4 @@ I turn the calendar - set
 06.10.2026 - homework logistic regression
 07.10.2026 - homework again
 08.10.2026 - kaggle titanic ML from scratch
+09.10.2026 - repeat lecture and upload first DF on kaggle - score 75%
