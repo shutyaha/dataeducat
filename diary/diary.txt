@@ -76,3 +76,4 @@ I turn the calendar - set
 20.10.2026 - lecture and seminar 5
 21.10.2026 - hw4
 22.10.2026 - hw4 & practice python
+23.10.2026 - hw4
