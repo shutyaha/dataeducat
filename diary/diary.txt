@@ -81,3 +81,4 @@ I turn the calendar - set
 25.10.2026 - hw4 upload
 26.10.2026 - business trip
 28.10.2026 - repeat lectures & seminars
+29.10.2026 - OOP
