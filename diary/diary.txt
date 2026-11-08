@@ -82,3 +82,6 @@ I turn the calendar - set
 26.10.2026 - business trip
 28.10.2026 - repeat lectures & seminars
 29.10.2026 - OOP
+06.11.2026 - return from business trip
+07.11.2026 - hw5, making an article
+08.11.2026 - hw5
