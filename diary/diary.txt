@@ -92,3 +92,4 @@ I turn the calendar - set
 13.11.2026 - headache
 15.11.2026 - lecture
 16.11.2026 - lecture
+17.11.2026 - hw6
